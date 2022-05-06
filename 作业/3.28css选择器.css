@@ -1,0 +1,30 @@
+div{
+    height: 100px;
+    width: 100px;
+    margin-bottom: 10px;
+}
+/* .name1{
+    background-color: red;
+}
+.name2.name3{
+    background-color: red;
+} */
+/* .name2{
+    background-color: blue;
+}
+.name3{
+    background-color: green;
+}
+.name1 .name3{
+    background-color: red;
+} */
+/* *{
+    background-color: black;
+} */
+
+.page{
+    height: 200px;
+    width: 320px;
+    background-color: black;
+    border-radius: 10px;
+}
